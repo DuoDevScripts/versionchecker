@@ -6,10 +6,12 @@
 }
 
 {
+  "name": "duodev_lib",
   "version": "1.0.0",
   "changelog": [],
   "download": "https:/portal.cfx.re/"
 }
+
 
 
 
