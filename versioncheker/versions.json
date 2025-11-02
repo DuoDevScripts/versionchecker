@@ -5,6 +5,17 @@
     "duodev_pedcreator": 1.0
 }
 
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Új admin parancs: /valami",
+    "Teljesítmény javítás",
+    "Bugfix: nem esik szét induláskor"
+  ],
+  "download": "https://valahol.hu/letoltes"
+}
+
+
 
 
 
