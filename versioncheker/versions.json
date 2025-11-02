@@ -6,11 +6,21 @@
 }
 
 {
-  "name": "duodev_lib",
-  "version": "1.0.0",
-  "changelog": [],
-  "download": "https:/portal.cfx.re/"
+  "duodev_lib": {
+    "version": "1.0.0",
+    "changelog": [
+    ],
+    "download": "https://portal.cfx.re/"
+  },
+  "duodev_jewelryrobbery": {
+    "version": "1.0.0",
+    "changelog": [
+    ],
+    "download": "https://portal.cfx.re/admin"
+  }
 }
+
+
 
 
 
