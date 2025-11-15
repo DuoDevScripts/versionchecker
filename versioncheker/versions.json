@@ -14,12 +14,12 @@
     "changelog": [],
     "download": "https://portal.cfx.re/"
   },
-  "duodev_pedcreator": {
+  "duodev_lib": {
     "version": 1.0,
     "changelog": [],
     "download": "https://portal.cfx.re/"
   },
-  "duodev_lib": {
+  "duodev_pedcreator": {
     "version": 1.0,
     "changelog": [],
     "download": "https://portal.cfx.re/"
@@ -30,6 +30,7 @@
     "download": "https://portal.cfx.re/"
   }
 }
+
 
 
 
