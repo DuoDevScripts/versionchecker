@@ -10,7 +10,7 @@
     "download": "https://portal.cfx.re/"
   },
   "duodev_ppsystem": {
-    "version": 1.2,
+    "version": "1.2.0",
     "changelog": [],
     "download": "https://portal.cfx.re/"
   },
@@ -30,6 +30,7 @@
     "download": "https://portal.cfx.re/"
   }
 }
+
 
 
 
