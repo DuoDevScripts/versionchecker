@@ -1,37 +1,11 @@
 {
-  "duodev_eventcreator_V2_QB": {
-    "version": 2.1,
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  },
-  "duodev_eventcreator_V2_ESX": {
-    "version": 2.3,
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  },
-  "duodev_ppsystem": {
-    "version": "1.2.0",
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  },
-  "duodev_lib": {
-    "version": 1.0,
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  },
-  "duodev_pedcreator": {
-    "version": 1.0,
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  },
-  "duodev_jewelryrobbery": {
-    "version": 1.0,
-    "changelog": [],
-    "download": "https://portal.cfx.re/"
-  }
+  "duodev_ppsystem": "1.2.0",
+  "duodev_eventcreator_V2_QB": "2.1.0",
+  "duodev_eventcreator_V2_ESX": "2.3.0",
+  "duodev_pedcreator": "1.0.0",
+  "duodev_lib": "1.0.0",
+  "duodev_jewelryrobbery": "1.0.0"
 }
-
-
 
 
 
