@@ -16,7 +16,7 @@
     ]
   },
   "duodev_eventcreator_V2_ESX": {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "changelog": [
       "Fixed version checker JSON parsing issues.",
       "Added console changelog display when new update is available.",
@@ -27,6 +27,7 @@
   "duodev_lib": "1.0.0",
   "duodev_jewelryrobbery": "1.0.0"
 }
+
 
 
 
