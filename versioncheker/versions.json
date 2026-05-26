@@ -18,9 +18,7 @@
   "duodev_eventcreator_V2_ESX": {
     "version": "2.5.0",
     "changelog": [
-      "Fixed version checker JSON parsing issues.",
-      "Added console changelog display when new update is available.",
-      "Minor performance improvements."
+      "Added a new Feature, now you can give items to players when they join."
     ]
   },
   "duodev_pedcreator": "1.0.0",
